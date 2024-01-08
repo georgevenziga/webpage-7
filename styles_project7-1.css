@@ -45,11 +45,12 @@
 }
 
 .collumn-x {
-    width: 400px;
+    max-width: 400px;
+    width: 100%;
     height: auto;
     border: #000000 1px solid;
     margin-bottom: auto;
-    flex-shrink: 0;
+
 }
 
 .img {
